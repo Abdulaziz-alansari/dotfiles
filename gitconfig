@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aziz83alansari@gmail.com
+	name = Abdulaziz Alansari
